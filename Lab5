@@ -22,7 +22,6 @@ const int J2_8 = 37;
 char mode = 0;
 char con1 = 0;
 char con2 = 0;
-char sas;
 char buffer[10];
 
 void setup() {
